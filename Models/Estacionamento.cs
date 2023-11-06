@@ -12,5 +12,11 @@ namespace ControleEstacionamento.Models
         private decimal precoPorHora = 0;
         private List<string> veiculos = new List<string>();
 
+        public Estacionamento(decimal precoInicial, decimal precoPorHora)
+        {
+            this.precoInicial = precoInicial;
+            this.precoPorHora = precoPorHora;
+        }
+
     }
 }
