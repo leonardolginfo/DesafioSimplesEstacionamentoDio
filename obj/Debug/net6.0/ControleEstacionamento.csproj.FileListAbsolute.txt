@@ -1,0 +1,14 @@
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\bin\Debug\net6.0\ControleEstacionamento.exe
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\bin\Debug\net6.0\ControleEstacionamento.deps.json
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\bin\Debug\net6.0\ControleEstacionamento.runtimeconfig.json
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\bin\Debug\net6.0\ControleEstacionamento.dll
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\bin\Debug\net6.0\ControleEstacionamento.pdb
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.AssemblyInfoInputs.cache
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.AssemblyInfo.cs
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.csproj.CoreCompileInputs.cache
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.dll
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\refint\ControleEstacionamento.dll
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.pdb
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ControleEstacionamento.genruntimeconfig.cache
+C:\LGINFO\Estudo\C#\EstacionamentoDIO\ControleEstacionamento\ControleEstacionamento\obj\Debug\net6.0\ref\ControleEstacionamento.dll
